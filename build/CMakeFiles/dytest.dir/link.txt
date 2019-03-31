@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -dynamiclib -Wl,-headerpad_max_install_names  -o libdytest.dylib -install_name @rpath/libdytest.dylib CMakeFiles/dytest.dir/src/u.cpp.o 

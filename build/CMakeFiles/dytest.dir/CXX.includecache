@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anter/Desktop/CMakeDir/include/u.h
+
+/Users/anter/Desktop/CMakeDir/src/u.cpp
+../include/u.h
+/Users/anter/Desktop/CMakeDir/include/u.h
+stdio.h
+-
+

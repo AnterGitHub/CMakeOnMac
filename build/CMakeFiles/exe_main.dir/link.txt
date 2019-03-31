@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/exe_main.dir/src/test.cpp.o  -o exe_main  -L/Users/anter/Desktop/CMakeDir/lib -Wl,-rpath,/Users/anter/Desktop/CMakeDir/lib -lstatictest -la 

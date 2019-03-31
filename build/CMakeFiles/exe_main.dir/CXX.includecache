@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anter/Desktop/CMakeDir/include/a.h
+
+/Users/anter/Desktop/CMakeDir/include/u.h
+
+/Users/anter/Desktop/CMakeDir/src/test.cpp
+stdio.h
+-
+../include/u.h
+/Users/anter/Desktop/CMakeDir/include/u.h
+../include/a.h
+/Users/anter/Desktop/CMakeDir/include/a.h
+
